@@ -1,2 +1,2 @@
 # ATM-project-with-python
-#using python and sql lite
+# ATM-project-with-python
